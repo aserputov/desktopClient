@@ -1,5 +1,5 @@
-brew install freerdp
-brew install --cask xquartz
-create api for desktop to be available ✓
+1. brew install freerdp - ..✓
+2. brew install --cask xquartz.
+3. create api for desktop to be available.
+4. get custom pass and ip. 
 
-- ip and password to run custom desktops. ✓
