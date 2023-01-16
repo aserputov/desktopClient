@@ -1,4 +1,4 @@
-Virtual Windows desktop on your mac machine in a few seconds, with node.js webserver, sockets server and AWS(mostly vm).
+Virtual Windows Desktop on your mac machine in a few seconds, with node.js webserver, sockets server and AWS(mostly vm).
 
 Steps.
 1. brew install freerdp - ..✓
